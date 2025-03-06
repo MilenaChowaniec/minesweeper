@@ -1,0 +1,4 @@
+C:\Users\milena\source\repos\minesweeper\Debug\minesweeper.exe
+C:\Users\milena\source\repos\minesweeper\Debug\minesweeper.vcxproj.MdMergeInputs.cache
+C:\Users\milena\source\repos\minesweeper\Debug\minesweeper.vcxproj.cppwinrt_plat.cache
+C:\Users\milena\source\repos\minesweeper\Debug\minesweeper.vcxproj.cppwinrt_comp.cache
